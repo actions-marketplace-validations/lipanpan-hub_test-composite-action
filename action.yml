@@ -22,4 +22,6 @@ runs:
     - run: ${{ github.action_path }}/goodbye.sh
       shell: bash
       
-      
+branding:
+  icon: chevron-up
+  color: purple      
